@@ -124,7 +124,7 @@ class SnakeGame:
         else:
             apple_eaten = False
 
-        # [rest of the move_snake code...]
+        
 
         if not apple_eaten:
             # Remove the last segment of the snake if not growing
